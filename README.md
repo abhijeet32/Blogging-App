@@ -1,6 +1,7 @@
-# Build the app locally
+## Build the app locally
     mvn spring-boot:run
 
-# Output will be
-    ![alt text](<https://github.com/abhijeet32/Blogging-App/blob/main/Screenshot%202025-05-20%20113252.png>)
+## Output will be
+    
+![Image](https://github.com/user-attachments/assets/f1fadee5-e7d7-420e-9be7-d76280a9b693)
 
